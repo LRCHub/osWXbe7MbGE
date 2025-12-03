@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ヒャダインのカカカタ☆カタオモイ-C",
+  "base_artist": "ヒャダイン",
+  "createdAt": "2025-12-03T15:46:37.039405Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C",
+      "artist": "HYADAIN",
+      "has_synced": true,
+      "path": "select/01_ヒャダインのカカカタ☆カタオモイ-C_HYADAIN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C (without ヒャダル子)",
+      "artist": "HYADAIN",
+      "has_synced": true,
+      "path": "select/02_ヒャダインのカカカタ☆カタオモイ-C_(without_ヒャダル子)_HYADAIN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C",
+      "artist": "STUDIO TRAM",
+      "has_synced": false,
+      "path": "select/03_ヒャダインのカカカタ☆カタオモイ-C_STUDIO_TRAM.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C",
+      "artist": "ヒャダイン",
+      "has_synced": true,
+      "path": "select/04_ヒャダインのカカカタ☆カタオモイ-C_ヒャダイン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C",
+      "artist": "HYADAIN",
+      "has_synced": true,
+      "path": "select/05_ヒャダインのカカカタ☆カタオモイ-C_HYADAIN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C",
+      "artist": "ヒャダイン",
+      "has_synced": true,
+      "path": "select/06_ヒャダインのカカカタ☆カタオモイ-C_ヒャダイン.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C",
+      "artist": "HYADAIN",
+      "has_synced": true,
+      "path": "select/07_ヒャダインのカカカタ☆カタオモイ-C_HYADAIN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C (off vocal)",
+      "artist": "ヒャダイン",
+      "has_synced": true,
+      "path": "select/08_ヒャダインのカカカタ☆カタオモイ-C_(off_vocal)_ヒャダイン.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C (without ヒャダイン)",
+      "artist": "ヒャダイン",
+      "has_synced": true,
+      "path": "select/09_ヒャダインのカカカタ☆カタオモイ-C_(without_ヒャダイン)_ヒャダイン.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C (without ヒャダル子)",
+      "artist": "ヒャダイン",
+      "has_synced": true,
+      "path": "select/10_ヒャダインのカカカタ☆カタオモイ-C_(without_ヒャダル子)_ヒャダイン.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C (without ヒャダイン)",
+      "artist": "HYADAIN",
+      "has_synced": true,
+      "path": "select/11_ヒャダインのカカカタ☆カタオモイ-C_(without_ヒャダイン)_HYADAIN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C（off vocal）",
+      "artist": "ヒャダイン",
+      "has_synced": true,
+      "path": "select/12_ヒャダインのカカカタ☆カタオモイ-C(off_vocal)_ヒャダイン.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C（without ヒャダル子）",
+      "artist": "ヒャダイン",
+      "has_synced": true,
+      "path": "select/13_ヒャダインのカカカタ☆カタオモイ-C(without_ヒャダル子)_ヒャダイン.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C（without ヒャダイン）",
+      "artist": "ヒャダイン",
+      "has_synced": true,
+      "path": "select/14_ヒャダインのカカカタ☆カタオモイ-C(without_ヒャダイン)_ヒャダイン.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C(Without ヒャダイン)",
+      "artist": "ヒャダイン、佐咲紗花",
+      "has_synced": true,
+      "path": "select/15_ヒャダインのカカカタ☆カタオモイ-C(Without_ヒャダイン)_ヒャダイン、佐咲紗花.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C(Without ヒャダル子)",
+      "artist": "ヒャダイン、佐咲紗花",
+      "has_synced": true,
+      "path": "select/16_ヒャダインのカカカタ☆カタオモイ-C(Without_ヒャダル子)_ヒャダイン、佐咲紗花.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C",
+      "artist": "ヒャダイン、佐咲紗花",
+      "has_synced": true,
+      "path": "select/17_ヒャダインのカカカタ☆カタオモイ-C_ヒャダイン、佐咲紗花.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C (Without ヒャダイン)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/18_ヒャダインのカカカタ☆カタオモイ-C_(Without_ヒャダイン)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C(off Vocal)",
+      "artist": "ヒャダイン、佐咲紗花",
+      "has_synced": true,
+      "path": "select/19_ヒャダインのカカカタ☆カタオモイ-C(off_Vocal)_ヒャダイン、佐咲紗花.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒャダインのカカカタ☆カタオモイ-C",
+      "artist": "ヒャダイン",
+      "has_synced": false,
+      "path": "select/pl_01_ヒャダインのカカカタ☆カタオモイ-C_ヒャダイン.txt"
+    }
+  ]
+}
